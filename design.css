@@ -1,0 +1,92 @@
+body {
+    background-color: grey;
+    padding: 1%;
+}
+#First-section{
+    background-color: #FEFBE7;
+}
+h1{
+    font-family: 'Montserrat', sans-serif, 'Ubuntu';
+    font-size: 3.5rem;
+    line-height: 1.5;    
+}
+p{
+    display: inline;
+    padding: 0px 15px;
+}
+.clicks{
+    text-decoration: none;
+}
+.clicks:hover{
+    color: navy;
+}
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 30px 0px 10px ;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.row{
+    margin-top: -16px;
+}
+
+#second-section{
+    margin-top: 16px;
+    padding: 1% 1%;
+    background-color: #fff;
+}
+.try{
+    height: 40vh;
+    margin-top: 16px;
+    text-align: center;
+    background-color: #82954B;
+   
+   
+}
+    .btn{
+        margin: 20px 5px 0px 5px;  
+       
+    }
+.finesse{
+    padding: 100px; 
+  
+}
+.olah{
+    background-color: #BABD42;
+}
+.thm{
+    text-decoration: none;
+}
+
+.design{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin-top: 50px;
+}
+.plenty{
+    position: relative;
+    margin-left: 20px;
+    background-image: repeating-linear-gradient(45deg, rgba(180, 211, 221, 0.2), rgba(165, 219, 149, 0.3) 10%) ;
+    height: 200px;
+    width: 655px;}
+.dos{
+    margin-left: -25px;
+}
+.tres{
+    margin-left: -25px;
+}
+.yo{
+    height: 27px;
+    width: 27px;
+    position: relative;
+    left: 12px;
+    top: 5px;
+}
+.thm:hover{
+    color: green;
+}
