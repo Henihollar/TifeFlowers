@@ -40,7 +40,7 @@ img{
 
 #second-section{
     margin-top: 16px;
-    padding: 1% 1%;
+    padding: 2% 2%;
     background-color: #fff;
     overflow: hidden;
 }
@@ -94,4 +94,19 @@ img{
 }
 .thm:hover{
     color: green;
+}
+
+@media(max-width:700px){
+    h1{
+        font-size: 9vw;
+    } .thm{
+        font-size: 3vw;
+    }.btn{
+        font-size: 3vw;
+        display: block;
+        position: relative;
+        left: 80px;
+    }.container .row{
+        display: block;
+    }
 }
